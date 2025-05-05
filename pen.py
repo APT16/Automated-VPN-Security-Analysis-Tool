@@ -197,4 +197,4 @@ def main():
         process_container(container)
 
 if __name__ == "__main__":
-    min()
+    main()
